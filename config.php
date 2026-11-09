@@ -10,7 +10,7 @@ define('SITE_OWNER',    'Ramazan Vural');
 define('SITE_TITLE',    'Ramazan Vural — Software Engineer & Game Dev');
 define('SITE_TAGLINE',  'Full-Stack Developer & Game Developer');
 define('SITE_DESC',     'Yazılım Mühendisliği Öğrencisi · Python, Django, C#, ASP.NET Core, Unity');
-define('SITE_URL',      'http://localhost:8000');   // Canlıya alınca domain ile değiştir
+define('SITE_URL', 'https://ramazanvural-blog.onrender.com');   
 
 // ─── Sosyal Medya Linkleri ──────────────────────────────────────────────────
 define('GITHUB_URL',    'https://github.com/Ramazan513451');  
